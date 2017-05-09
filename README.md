@@ -9,6 +9,7 @@ Import the DebugCPP.h header file
 
 Then use 
 
+```
 Debug::Log("Hellow Red", Color::Red);
 Debug::Log("Hellow Green", Color::Green);
 Debug::Log("Hellow Blue", Color::Blue);
@@ -22,3 +23,4 @@ Debug::Log(false, Color::Red);
 
 //No Color Specified but black will be used as the default color
 Debug::Log("Hellow Default Black Color");
+```
