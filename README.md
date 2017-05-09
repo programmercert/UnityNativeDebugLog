@@ -24,3 +24,5 @@ Debug::Log(false, Color::Red);
 //No Color Specified but black will be used as the default color
 Debug::Log("Hellow Default Black Color");
 ```
+
+Attach DebugCPP.cs from UnityNativeDebugLog/Csharp/ to any empty GameObject that is active. Log should appear on Windows if testing the plugin in the Editor.
